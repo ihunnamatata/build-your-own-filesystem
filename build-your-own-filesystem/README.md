@@ -1,10 +1,10 @@
-# 🗂️ Build Your Own Filesystem (In-Memory Shell)
+# Build Your Own Filesystem (In-Memory Shell)
 
 This project simulates a basic in-memory filesystem with folder navigation and file creation. It mimics how directories and files are managed in real systems — ideal for understanding how hospitals, cloud AI platforms, or simulation frameworks organize their data internally.
 
 ---
 
-## 📌 Supported Features
+## Supported Features
 
 - `mkdir <folder>` – create folder
 - `touch <file>` – create file
@@ -17,7 +17,7 @@ This project simulates a basic in-memory filesystem with folder navigation and f
 
 ---
 
-## 🧠 Clinical + Simulation Relevance
+## Clinical + Simulation Relevance
 
 In health tech systems:
 - Every patient’s scans, logs, vitals = **structured folders/files**
@@ -31,7 +31,7 @@ This project helps you:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 cd src/
@@ -49,7 +49,7 @@ read summary.txt
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 - `src/main.py` – main filesystem logic
 - `assets/` – flowcharts, command examples (optional)
@@ -57,7 +57,7 @@ read summary.txt
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
